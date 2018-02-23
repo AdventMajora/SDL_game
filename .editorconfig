@@ -1,4 +1,4 @@
-[*.{js,jsx,html,sass}]
+[*.{js,jsx,html,sass,cpp,h}]
 charset = utf-8
 indent_style = tab
 indent_size = 4
